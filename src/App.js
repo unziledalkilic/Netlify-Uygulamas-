@@ -7,18 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-
-          Git & Github Öğreniyorum w/sedaunzile
-
-        </p>
-        <p>
-          Yeni Eklenti 2
-        </p>
-        <p> 
-          Yeni Eklenti 3
-        </p>
-        <p>
-          Yeni Eklenti 4
+          Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
